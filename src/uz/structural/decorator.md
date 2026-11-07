@@ -1,6 +1,6 @@
 ---
 title: Dekorator andozasi (Decorator)
-description: Obyektlarni dekorator obyektlariga o'rash orqali ularga dinamik ravishda mas'uliyatlar qo'shadi.
+description: Obyektlarni ss obyektlariga o'rash orqali ularga dinamik ravishda mas'uliyatlar qo'shadi.
 icon: Wand
 ---
 
